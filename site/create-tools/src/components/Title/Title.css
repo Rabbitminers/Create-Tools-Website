@@ -1,0 +1,18 @@
+.Title {
+    padding-top: 20px;
+    font-family: 'MinecraftiaRegular';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 30px;
+    color: aliceblue;
+    padding-left: 30px;
+    padding-right: 20px;
+}
+
+.Subtitle {
+    font-family: 'MinecraftiaRegular';
+    font-weight: normal;
+    font-style: normal;
+    font-size: 12px;
+    color: rgb(120, 120, 120);
+}
