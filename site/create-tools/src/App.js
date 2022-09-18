@@ -3,6 +3,7 @@ import Footer from './components/footer/Footer'
 import ProjectInfo from './components/ProjectInfo/ProjectInfo';
 import Title from './components/Title/Title'
 import ToolTypes from './components/ToolTypes/ToolTypes';
+import Stats from './components/ToolViewer/libs/Stats/Stats';
 
 function App() {
   return (
@@ -16,7 +17,12 @@ function App() {
           <ToolTypes/>
         </div>
         <div class="Showcase">
-          Hello world
+          <div>
+            <Stats></Stats>
+          </div>
+          <div>
+            Hello world!
+          </div>
         </div>
       </div>
       <ProjectInfo/>
