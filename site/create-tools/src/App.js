@@ -29,6 +29,7 @@ function App() {
           </div>
         </div>
       </div>
+      <hr class="info__padding"/>
       <ProjectInfo/>
       <Footer></Footer>
     </div>
