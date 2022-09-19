@@ -34,6 +34,10 @@ class GitHubData extends Component{
                 <p class="tldr">
                     Stars: ⭐{this.state.data.stargazers_count}
                 </p>
+                <p class="tldr">Open Issues: {this.state.data.open_issues_count}</p>
+                <br/>
+                {this.state.data.full_name}
+                <p class="tldr">Active Forks: {this.state.data.forks_count}</p>
             </div>
         )
     }

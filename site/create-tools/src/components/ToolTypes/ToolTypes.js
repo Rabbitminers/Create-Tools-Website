@@ -13,8 +13,20 @@ function ToolTypes() {
             Harvester
         </div>
         <div class="ToolType">
-            Deployer
-        </div >
+            Deployer (Attack)
+        </div>
+        <div class="ToolType">
+            Deployer (Place)
+        </div>
+        <div class="ToolType">
+            Deployer (Move)
+        </div>
+        <div class="ToolType">
+            Plough
+        </div>
+        <div class="ToolType">
+            Potato Cannon
+        </div>
     </div>
   );
 }
