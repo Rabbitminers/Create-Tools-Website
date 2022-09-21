@@ -21,6 +21,7 @@ function App() {
           <Components/>
         </div>
         <div class="Showcase">
+          <div class="folding-angle"></div>
           <div class="showcase__stats">
             <Stats></Stats>
           </div>

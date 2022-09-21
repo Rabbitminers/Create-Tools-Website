@@ -36,11 +36,14 @@
     transition-duration: 1.2s;
 }
 
-.ToolType {
+.container {
     color: white;
     text-shadow: 5px;
-    padding-right: 30px;
     text-shadow: 3px 3px #15153F;
+}
+
+.container>div {
+    padding-right: 30px;
 }
 
 .showcase__image {
@@ -51,4 +54,8 @@
 
 #img {
     filter: drop-shadow(5px 2px 2px gray);
+}
+
+.active {
+    color: rgb(196, 196, 196);
 }

@@ -3,49 +3,49 @@ import "./ToolTypes.css"
 function ModifierComponents() {
   return (
     <div className="container">
-        <div class="ToolType">
+        <div id="ToolType">
             Blaze Burner
         </div>
-        <div class="ToolType">
+        <div id="ToolType">
             Crushing Wheel
         </div>
-        <div class="ToolType">
+        <div id="ToolType">
             Mill Stone
         </div>
-        <div class="ToolType">
+        <div id="ToolType">
             Filter
         </div >
-        <div class="ToolType">
+        <div id="ToolType">
             Brass Filter
         </div>
-        <div class="ToolType">
+        <div id="ToolType">
             Furnace Engine
         </div>
-        <div class="ToolType">
+        <div id="ToolType">
             Mechanical Press
         </div>
-        <div class="ToolType">
+        <div id="ToolType">
             Extendo-Grip
         </div >
-        <div class="ToolType">
+        <div id="ToolType">
             Flywheel
         </div>
-        <div class="ToolType">
+        <div id="ToolType">
             Windmill
         </div>
-        <div class="ToolType">
+        <div id="ToolType">
             Steam Engine
         </div>
-        <div class="ToolType">
+        <div id="ToolType">
             Item Vault
         </div >
-        <div class="ToolType">
+        <div id="ToolType">
             Hand Crank
         </div>
-        <div class="ToolType">
+        <div id="ToolType">
             Mechanical Arm
         </div>
-        <div class="ToolType">
+        <div id="ToolType">
             Rotational Speed Controller
         </div>
         

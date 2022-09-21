@@ -3,19 +3,19 @@ import "./ToolTypes.css"
 function Components() {
   return (
     <div className="container">
-        <div class="ToolType">
+        <div id="ToolType">
             Handle Type
         </div>
-        <div class="ToolType">
+        <div id="ToolType">
             Casing Type
         </div>
-        <div class="ToolType">
+        <div id="ToolType">
             Blade Type
         </div>
-        <div class="ToolType">
+        <div id="ToolType">
             Cog Wheel
         </div>
-        <div class="ToolType">
+        <div id="ToolType">
             Generator
         </div>
     </div>
